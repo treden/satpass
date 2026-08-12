@@ -27,7 +27,7 @@ sa,             SARAL-ALTIKA,                   2013-03-14 05:39:27,    NaT,    
 s3a,            SENTINEL-3A,                    2016-03-12 21:37:30,    NaT,                    27.0,           002,        NaN,        "s3a_cycle06_dtsec.csv"
 s3a2,           SENTINEL-3A (Test),             2016-03-12 21:37:30,    NaT,                    27.0,           002,        NaN,        "s3a_rel_orbit.csv"
 s3b,            SENTINEL-3B,                    2018-12-16 21:39:03,    NaT,                    27.0,           020,        NaN,        "s3b_cycle20_dtsec.csv"
-sw,             SWOT,                           2023-07-21 05:34:38,    NaT,                    20.86455,       001,        NaN,        "new_swot_science_orbit_from_kml_10s.csv"
+sw,             SWOT,                           2023-07-21 05:34:38,    NaT,                    20.86455,       001,        NaN,        "swot_science_orbit_feb2025-v1.0_10s_nadir.csv"
 swi,            SWOT-CALVAL,                    2023-03-28 22:02:06,    2023-07-10 09:12:05,    0.99349,        474,        578,        "swot_calval_orbit.csv"
 cfo,            CFOSAT,                         2018-10-29 00:00:00,    NaT,                    13.0,           NaN,        NaN,        "cfosat.csv"
 pace,           PACE,                           2024-02-08 00:00:00,    NaT,                    11.0,           001,        NaN,        "pace.csv"
