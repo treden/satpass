@@ -1,5 +1,9 @@
 """Tools for computing satellite passes from nominal altimeter tracks."""
 
+from .misc import (
+    assign_filepath
+)
+
 from .colocation import (
     colocate_swot_passages,
     colocate_xy,
