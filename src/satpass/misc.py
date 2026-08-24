@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def assign_filepath(satpass_swot, swot_files):
     """
